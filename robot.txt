@@ -6,5 +6,6 @@ Disallow: /fancybox
 Disallow: /font-awesome
 Disallow: /img
 Disallow: /js
+Disallow: /l-admin
 Sitemap: https://www.ldhtool.top/sitemap.xml
 Sitemap: https://www.ldhtool.top/baidusitemap.xml
